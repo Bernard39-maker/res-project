@@ -1,6 +1,6 @@
 import React from "react";
-import states from "./components/Header";
-import Footer from "./components/Footer";
+import states from "./Components/Header";
+import Footer from "./Components/Footer";
 
 export default function App() {
   return (
